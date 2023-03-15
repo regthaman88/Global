@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HumWebAPI3.props" />
+</Project>

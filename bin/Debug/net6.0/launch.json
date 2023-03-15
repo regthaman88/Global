@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "adapter": "c:\\users\\bjr2563\\appdata\\local\\microsoft\\visualstudio\\17.0_2c4e16a6\\extensions\\ha3bhlkm.i3t\\plink.exe",
+  "adapterArgs": "-ssh -pw JWB(@7Z[cX_wy)~k bjr2563s@10.114.36.111 -batch -T ~/.vs-debugger/vs2022  --engineLogging=./VSLinuxDbg/HumWebAPI3/_vsdbg.log",
+  "configurations": [
+    {
+      "name": "Debug on Linux",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "dotnet",
+      "args": [
+        "HumWebAPI3.dll"
+      ],
+      "cwd": "./VSLinuxDbg/HumWebAPI3",
+      "console": "integratedTerminal"
+    }
+  ]
+}

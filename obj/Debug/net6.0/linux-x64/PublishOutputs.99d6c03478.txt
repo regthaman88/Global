@@ -1,0 +1,12 @@
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\HumWebAPI3
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.json
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\testEnvironments.json
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\HumWebAPI3.dll
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\HumWebAPI3.deps.json
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\HumWebAPI3.runtimeconfig.json
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\HumWebAPI3.pdb
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\temp\HumWebAPI3\HumWebAPI3\obj\Release\net6.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
